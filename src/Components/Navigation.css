@@ -1,0 +1,8 @@
+.title {
+  font-size: 1.8em !important;
+}
+.link {
+  text-decoration: none !important;
+  color: white !important;
+  cursor: pointer;
+}

@@ -1,0 +1,9 @@
+.dark-bg {
+  background-color: rgb(52, 58, 64);
+  min-height: 83vh;
+  max-height: 100%;
+}
+
+.card {
+  background-color: rgb(110, 235, 235) !important;
+}
